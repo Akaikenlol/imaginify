@@ -1,16 +1,22 @@
-<svg width="38" height="38" viewBox="0 0 38 38" xmlns="http://www.w3.org/2000/svg" stroke="#fff">
-    <g fill="none" fill-rule="evenodd">
-        <g transform="translate(1 1)" stroke-width="2">
-            <circle stroke-opacity=".5" cx="18" cy="18" r="18"/>
-            <path d="M36 18c0-9.94-8.06-18-18-18">
-                <animateTransform
-                    attributeName="transform"
-                    type="rotate"
-                    from="0 18 18"
-                    to="360 18 18"
-                    dur=".9s"
-                    repeatCount="indefinite"/>
-            </path>
-        </g>
-    </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="512.000000pt" height="512.000000pt" viewBox="0 0 512.000000 512.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M2387 5010 c-509 -39 -966 -218 -1372 -539 -90 -71 -295 -276 -366
+-366 -268 -339 -440 -719 -509 -1126 -117 -696 61 -1397 498 -1954 84 -107
+335 -352 443 -433 327 -244 697 -401 1104 -469 137 -22 570 -26 705 -5 715
+110 1327 499 1712 1087 351 535 482 1150 378 1771 -26 155 -73 330 -98 363
+-28 39 -80 63 -125 57 -54 -6 -86 -31 -109 -83 l-20 -45 30 -122 c139 -554 87
+-1086 -150 -1560 -314 -627 -874 -1046 -1573 -1178 -105 -20 -152 -23 -370
+-23 -197 0 -271 4 -350 18 -360 65 -668 196 -950 404 -112 84 -351 320 -436
+433 -177 236 -309 511 -378 790 -47 194 -63 322 -63 530 0 118 6 225 16 295
+106 720 536 1320 1181 1647 310 157 620 230 975 230 322 1 583 -52 877 -178
+62 -27 118 -44 141 -44 115 0 174 147 92 228 -56 57 -347 168 -566 217 -224
+50 -500 71 -717 55z"/>
+</g>
 </svg>
